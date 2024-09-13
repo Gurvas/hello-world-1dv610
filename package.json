@@ -2,9 +2,10 @@
   "name": "hello-world-1dv610",
   "version": "1.0.0",
   "description": "boilerplate hello world project",
-  "main": "index.js",
+  "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
   },
   "author": "Gustav Larsson <gl222pp@student.lnu.se>",
   "license": "MIT"
